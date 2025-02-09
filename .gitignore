@@ -1,0 +1,10 @@
+.DS_Store
+*.log
+/target/
+/bin/
+.idea/
+*.iml
+*.jar
+
+
+
